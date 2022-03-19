@@ -1,0 +1,1530 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,200&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,200&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+.App {
+  position: relative;
+
+}
+/* landing page styling start */
+.login_heading{
+  margin-bottom: 1rem;
+}
+.errorsg{
+  color:red;
+}
+
+.App-logo {
+  
+  height: 40vmin;
+  pointer-events: none;
+
+}
+
+@keyframes appearDissapear{
+   0%{
+     opacity:0
+   }
+   50%{
+     opacity: 100%;
+   }
+   75%{
+     opacity: 0;
+   }
+   100%{
+     opacity: 100%;
+   }
+}
+
+.account_profile_purchased_page{
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2); 
+  display: flex;
+  flex-direction: column;
+}
+.account_profile_name_purchased_page{
+   background:#f5f5f5;
+   font-size: 14px;
+  padding: 10px;
+  font-weight: bold;
+  opacity:0.6;
+}
+.socialmedia_purchased_page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90px;
+}
+.footer_text_purchased_page{
+  font-size: 12px;
+  text-align: center;
+}
+.social_media_icons_purchased_page{
+width: 40px;
+height: 40px;
+display: flex;
+align-items: center;
+margin-right: 15px;
+justify-content: center;
+border-radius: 50%;
+}
+.purchase_tools{
+  font-weight: bold;
+  opacity: 0.7;
+  background: white;
+}
+.purchase_history{
+  margin-left:60px;
+  font-size:12px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  color:white;
+  background: #3b5998;
+  border-radius: 20px;
+}
+.Megashopp{
+  color:red;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  /* animation: appearDissapear 2s infinite; */
+
+}
+.right_side_content{
+  padding-top: 7rem;
+  background: rgba(217, 219, 219, 0.43);
+  height: 100vh;
+  text-align: left;
+  padding-left: 3rem;
+
+}
+.enter_details_heading{
+  font-weight: bold;
+  margin-bottom: 2rem;
+  font-family: 'Roboto Mono', monospace;
+}
+img.landing_page_imgg{
+  height: 70%;
+  width: 85%;
+  object-fit: contain;
+}
+.left_side_contentt{
+  padding-top: 6rem;
+   height: 100vh;
+ padding-left: 10rem !important;
+    text-align: left;
+  width: 100%;
+}
+.email_inputt{
+  width: 60%;
+  padding: 10px;
+   padding-left: 40px;
+  outline: none;
+  border: 2px solid rgba(217, 219, 219, 0.9);;
+}
+.email_inputt:focus{
+  padding-left: 40px;
+}
+.password_input:focus{
+  padding-left: 40px;
+}
+.field_container{
+  position: relative;
+}
+.pass_email_icons{
+  position: absolute;
+  top:35%;
+  color:green;
+  left:3%;
+}
+
+.email_inputt:focus::placeholder{
+  padding-left: 0px;
+}
+
+.password_input:focus::placeholder{
+  padding-left: 0px;
+}
+.password_inputt{
+width: 60%;
+ padding: 10px;
+ outline: none;
+  padding-left: 40px;
+ border: 2px solid rgba(217, 219, 219, 0.9);;
+}
+.input_label_landing_page{
+  margin-top: 1rem;
+
+}
+
+.login_register_buttonn{
+  width: 27%;
+  margin-top: 1rem;
+  background: rgba(255, 0, 0, 0.65);
+  color: white;
+  border: none;
+  padding: 8px;
+}
+
+.footer_parent{
+  position: relative;
+  background:green;
+}
+/* .footerr{
+position: absolute;
+top:90%;
+left:50%;
+ transform: translate(-50%, 50%);
+ 
+} */
+.footerName{
+  font-weight: bold;
+}
+.login_register_link{
+  color: red;
+  text-decoration: underline;
+}
+.login_register_link:hover{
+   text-decoration: none;
+   cursor: pointer;
+}
+
+.PageBackToNormal{
+ width: 100%;
+background: #f5f5f5;
+ margin-right: 0;
+ transition: all 0.5s ease;
+ overflow-x: hidden !important;
+
+}
+
+@media only screen and (max-width:776px){
+
+  .PageBackToNormal{
+ width: 100%;
+background: #f5f5f5;
+ margin-right: 0;
+ transition: all 0.5s ease;
+ overflow-x: scroll !important;
+ 
+
+}
+  
+.PageBackToNormalLogsPage{
+ width: 100%;
+background: #f5f5f5;
+ margin-right: 0;
+ overflow-x: scroll;
+ transition: all 0.5s ease;
+ 
+}
+   /* .footerr{
+position: absolute;
+top:80%;
+left:50%;
+width: 100%;
+transform: translate(-50%, 50%);
+text-align: center;
+ 
+} */
+.left_side_contentt{
+  padding-top: 2rem;
+   height: 80vh;
+ padding-left: 7rem !important;
+    text-align: left;
+  width: 100%;
+}
+.right_side_content{
+  padding-top: 0rem;
+  background: none;
+  height: 100vh;
+  text-align: left;
+  padding-left: 3rem;
+
+}
+
+}
+/* landing page styling end */
+
+
+/* banklogs page styling start */
+.navbar{
+  width: 100%;
+  height: 8vh;
+  margin-left: -20px;
+   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2); 
+}
+.logo{
+
+  height: 100%;
+  /* border-right: 1px solid dotted; */
+  font-family: 'EB Garamond', serif;
+  font-size: 25PX;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#22ae8e;
+  
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+ 
+ 
+ 
+}
+.header_buttons{ 
+  height: 100%;
+  display: flex;
+  margin-left: -135px;
+  
+
+
+}
+.buttonDiv{
+  position: relative;
+  margin-right: 15px;
+}
+.buttonDiv i{
+  position: absolute;
+  top:30%;
+  left: 2%;
+  font-size: 12px;
+  color:white;
+  padding-right: 5px;
+  padding-left: 2px;
+}
+.header_buttons button{
+ font-size: 12px;
+ font-weight: bold;
+ width: 90px;
+}
+.profile{
+  height:9vh;
+  width: 40px;
+  position: relative;
+  margin-top: -10px;
+  margin-right: -20px;
+  display: flex;
+  cursor: pointer;
+  
+
+}
+
+.show ul{ 
+  list-style-type: none;
+}
+
+.show ul li{
+  font-size: 14px;
+  margin-left: -40px;
+   padding:1px;
+   padding-left: 15px;
+}
+.show ul li:hover{
+  background:#22ae8e;
+  color:white;
+  cursor: pointer;
+}
+
+.show ul li:nth-child(3){
+  padding-bottom: 10px;
+}
+.show{
+  opacity: 1;
+  pointer-events: all;
+  position: absolute;
+  right:10%;
+  top:100%;
+  z-index: 10;
+  width: 150px;
+  background:#f5f5f5;
+  user-select: none;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); 
+}
+.hide{
+  opacity: 0;
+  pointer-events: none;
+}
+.show ul li:nth-child(4){
+  border-top: 1px solid rgba(0, 0, 0, 0.274);
+  padding-top: 10px;
+}
+.profile:hover{
+  background:rgba(82, 83, 82, 0.237);
+}
+.profile h6{
+  position:absolute;
+  top:30%;
+  left:0%;
+  font-size: 14px;
+  margin-left: 6px;
+  color:rgba(95, 143, 233, 0.9);
+}
+.fa-caret-down{
+  position: absolute;
+  top:30%;
+  right: 20%;
+  
+}
+.image_container{
+ height: 35px;
+  width: 35px;
+   position: absolute;
+   left:30%;
+   top:15%;
+   
+}
+img.profile_photo{
+ height: 100%;
+ width: 100%;
+ border-radius: 50%;
+  margin-bottom: 15px;
+  object-fit: cover;
+ 
+  border: 2px solid white;
+ 
+
+ 
+}
+/* banklogs page styling end */
+
+/* dashboard styling formats  start*/
+.addfundsDashBoard{
+  position: absolute;
+  top:8%;
+  height: 100vh;
+  z-index: 50;
+}
+.dashboard{
+  height: 150vh;
+  background: #102e4d;
+  width: 180px;
+  font-size: 15px;
+  color:white;
+  margin-left: -10px;
+
+  
+}
+/* dashboard styling formats  end*/
+.ulDiv ul{
+  list-style-type: none;
+}
+.ulDiv ul li{
+  padding: 10px;
+}
+.ulDiv ul li.dashboardLi:nth-child(1){
+  opacity: 1;
+}
+.ulDiv ul li.dashboardLi{
+  position: relative;
+  cursor: pointer;
+  opacity: 0.7;
+  
+}
+.ulDiv ul li.dashboardLi:hover{
+  opacity: 1;
+}
+.ulDiv ul li.dashboardLi i{
+  position: absolute;
+  left:-15%;
+  top:35%;
+  font-size: 16px;
+  
+}
+.dashboardLi .dropdownMenu{
+  position: absolute;
+  right:-130%;
+  top:0%;
+  color:black;
+  background: white;
+  padding-top: 15px;
+  width: 180px;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 10;
+ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5); 
+}
+
+.dashboardLi .dropdownMenu ul li{
+  margin-left: -30px;
+  padding-left: 15px;
+  width: 120%;
+  font-size: 14px;
+  padding-top: 0px;
+
+  
+}
+.dashboardLi .dropdownMenu ul li:nth-child(1),
+.dashboardLi .dropdownMenu ul li:nth-child(5){
+   margin-left: -45px;
+}
+.dashboardLi .dropdownMenu ul li:nth-child(5){
+  color:#064c8a;
+}
+.dashboardLi .dropdownMenu ul li:nth-child(2):hover,
+.dashboardLi .dropdownMenu ul li:nth-child(3):hover,
+.dashboardLi .dropdownMenu ul li:nth-child(4):hover,
+.dashboardLi .dropdownMenu ul li:nth-child(6):hover,
+.dashboardLi .dropdownMenu ul li:nth-child(7):hover,
+.dashboardLi .dropdownMenu ul li:nth-child(8):hover{
+  background:#22ae8e;
+  color:white;
+}
+.ulDiv ul li.dashboardLi:hover .dropdownMenu{
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* ends of dashboard */
+/* start of main content area */
+.contentArea{
+  background: #F5F5F5;
+ 
+  margin-left: 200px;
+}
+.iconsSymbolCOntainer{
+  height: 20vh;
+ background: #F5F5F5;
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+ 
+}
+.symbol_icon_combo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.iconsSymbols{
+  width: 60px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ cursor: pointer;
+  margin-left: 40px;
+  border-radius: 50%;
+  position: relative;
+}
+.iconSymbolDescription{
+  position: absolute;
+  top:100%;
+  color:black;
+  opacity: 1;
+  font-weight: bold;
+  font-size: 12px;
+ 
+  width:70px;
+  
+}
+.iconSymbolDescription:hover{
+  color:black;
+ 
+}
+.iconsSymbols i{
+  font-size: 25px;
+}
+.iconsSymbols:nth-child(1){
+  background: white;
+  opacity: 0.6;
+  color:black
+}
+
+
+.iconsSymbols:nth-child(1):hover{
+  color: white;
+  background: #22ae8e;
+  opacity: 0.6;
+}
+.iconsSymbols:nth-child(2){
+  background: #22ae8e;
+  color: white;
+}
+.iconsSymbols:nth-child(2):hover{
+  background: #22ae8e;
+  color: white;
+  opacity: 0.7;
+}
+.iconsSymbols:nth-child(3){
+  background: rgb(89, 172, 89);
+  color: white;
+}
+.iconsSymbols:nth-child(3):hover{
+  background: rgb(89, 172, 89);
+  color: white;
+  opacity: 0.7;
+}
+.iconsSymbols:nth-child(4){
+  background: 	#428bca;
+  color: white;
+}
+.iconsSymbols:nth-child(4):hover{
+  background: 	#428bca;
+  color: white;
+  opacity: 0.7;
+}
+.iconsSymbols:nth-child(5){
+  background: 	#102e4d;
+  color: white;
+}
+.iconsSymbols:nth-child(5):hover{
+  background: 	#102e4d;
+  color: white;
+  opacity: 0.7;
+}
+.eachbalance{
+  border: 1px solid rgba(0, 0, 0, 0.221);
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: white;
+  height: 150px;
+  margin-right: 25px;
+}
+.accountBalTotalPurchased{
+  margin-left: 25px;
+ 
+}
+
+.AccountBalance{
+  height: 30%;
+border-bottom: 1px solid rgba(0, 0, 0, 0.221);
+ width: 109%;
+ text-align: center;
+ font-weight: bold;
+ opacity: 0.7;
+ 
+ 
+}
+.amount{
+  width: 109%;
+  height: 70%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+  margin-top: 0;
+  font-weight: bold;
+  opacity: 0.7;
+ 
+}
+.admin_contact_area{
+   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.375); 
+  background:red;
+
+  margin-top:25px;
+  margin-bottom: 25px;
+  width: 90%;
+ 
+}
+.adminContact{
+ margin-left: 20px;
+  width: 99%;
+  background:#f5f5f5;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.275);
+}
+.contactheader{
+  padding-left: 45px;
+  font-weight: bold;
+  opacity: 0.7;
+}
+.admin_header{
+  color:black;
+  font-size: 15px;
+  font-weight: bold;
+  opacity: 0.7;
+}
+.textDescription_email{
+  display: flex;
+  width: 60%;
+ 
+  justify-content: space-between;
+}
+.email_content{
+  font-weight: bold;
+  opacity: 0.7;
+}
+.email_span{
+  background: #428bca;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  font-size: 14px;
+  border-radius: 20px;
+}
+.refund{
+  margin-top:15px;
+  width: 90%;
+  height:100px;
+  padding-left: 25px;
+  background: white;
+  margin-left: 15px;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3); 
+}
+.footer_home_page{
+  display: flex;
+  height: 100px;
+  width: 100%;
+  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.refundArea{
+  background:#F5F5F5;
+  height: 30px;
+  width: 100%;
+ display: flex;
+ 
+  font-size: 12px;
+  color:white;
+}
+.redundPolicy{
+  background:#428bca;
+  height: 20px;
+  width: 100px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 5px;
+  color:white;
+}
+.email_address{
+  margin-left: 20px;
+}
+.textDescription{
+  font-size: 13px;
+}
+.fundingSupport{
+  background:#428bca;
+  height: 20px;
+ 
+  width: 100px;
+  text-align: center;
+  font-size: 12px;
+  color:white;
+}
+.textSupport{
+   font-size: 13px;
+}
+.footer{
+  margin-top: 45px;
+  width: 100%;
+  text-align: center;
+  background: #F5F5F5;
+  
+}
+.socialmedia{
+  display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.social_media_icons{
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin-left: 15px;
+  cursor: pointer;
+}
+.social_media_icons:hover{
+  opacity: 0.7;
+}
+.footerCopy{
+  font-size: 11px;
+}
+.twitterDiv{
+  background:#1da1f2;
+  color:white;
+}
+.facebookDiv{
+  background:#3b5998;
+  color:white;
+}
+.googlePlusDiv{
+  background: #dd4b39;
+  color:white;
+}
+
+/* end of main content area */
+
+
+/* chase banK Logins start */
+.logs{
+  background: #F5F5F5;
+  width: 100%;
+  margin-right:50px;
+  margin-top: 10px;
+  margin-left: 200px;
+ 
+}
+.banklogsDashBoard{
+  position: absolute;
+  top:8%;
+  z-index: 50;
+  height: 155vh;
+}
+.chaseBankHeading{
+  height: 50px;
+  display: flex;
+  font-size: 18px;
+  padding-left: 35px;
+  opacity: 0.7;
+  align-items: center;
+}
+.chaseBankHeading i{
+  font-size: 16px;
+}
+.logsHeading{
+  font-size: 12px;
+  margin-left: 25px;
+  background: rgba(255, 0, 0, 0.918);
+  width:180px;
+  text-align: center;
+  color:white;
+  opacity: 0.7;
+  border-radius: 5px;
+}
+.table{
+  margin-right:50px;
+  margin-left:15px;
+  background: white;
+  border: 1px solid rgba(0, 0, 0, 0.295);
+}
+.table th{
+  font-size: 12px !important;
+  opacity: 0.8;
+  height: 15px !important;
+   border-right: 1px solid rgba(0, 0, 0, 0.284);
+}
+.table td{
+  font-size: 12px !important;
+  opacity: 0.9;
+}
+button.tablebtn{
+  font-size: 12px !important;
+  width: 100px;
+  opacity: 0.9;
+}
+.tablebtn i{
+  font-size: 10px;
+  margin-right: 5px;
+}
+.footerLogsPage{
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* chase banK Logins end */
+
+
+/* add payment page formating start */
+.paymentScanDiv{
+
+ background: #22ae8e;
+  height: 310px;
+  margin-left: 12px;
+  position: relative;
+}
+.addfundsContainer{
+ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+ padding-bottom: 10px;
+}
+.reportingFundingError{
+   margin-left: 15px;
+}
+.bitcoin_and_text{
+  width: 200px;
+  margin-top:10px;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.funding_page_bitcoin_text{
+  color: white;
+  font-size: 14px;
+}
+.bitcoin_div_funds_page{
+ 
+  height: 40px;
+  width: 40px;
+  color: white;
+  font-size: 20px;
+  border-radius: 50%;
+  border:2px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img.scan_code_img{
+ height: 100px;
+ width: 100px;
+ object-fit: contain;
+}
+.scan_description{
+  color: white;
+  font-size: 13px;
+  margin: 0;
+}
+.scan_code_pin{
+  margin-top: 25px;
+  color: white;
+  font-weight: bold;
+  width: 80%;
+  font-size: 24px;
+  opacity: 0.7;
+}
+.copy_wallet{
+  position: absolute;
+  bottom:28%;
+  left: 80%;
+  font-size:14px;
+}
+.report_error{
+  font-size: 15px;
+}
+.submission_form{
+  margin-top: -14px;
+  width: 230px;
+ 
+}
+.submitbtnfundspage{
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 10px;
+  opacity: 0.7;
+}
+.label_form_input{
+  font-size:15px;
+  font-weight: bold;
+  opacity: 0.7;
+  margin-top: 5px;
+
+}
+input.add_funds_page_input{
+  width: 130%;
+  font-size: 14px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border:1px solid rgba(0, 0, 0, 0.179);
+}
+input.add_funds_page_input:focus{
+  outline:1px solid #22ae8e;
+}
+input.add_funds_page_input::placeholder{
+ padding-left: 10px;
+ font-size: 13px;
+}
+/* add payment page formating end */
+.footerAddfundsPage{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 45px;
+  margin-left: -150px;
+  
+}
+.contact_form_support_page{
+ 
+  width: 80%;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5); 
+}
+.textarea_contact_form:focus{
+    outline:1px solid #22ae8e;
+}
+button.send_support_page{
+    margin-top: 10px;
+}
+.contact_heading_support_page{
+  font-size: 20px;
+  font-weight: bold;
+  opacity: 0.7;
+  margin-top: 25px;
+  margin-left:15px;
+
+}
+.support_page_contact_form label{
+ margin-top:20px;
+ font-weight: bold;
+ font-size: 14px;
+ opacity: 0.7;
+}
+.support_page_contact_form select{
+   border:1px solid rgba(0, 0, 0, 0.295);
+   padding-left: 10px;
+   padding:5px;
+   border-radius: 5px;
+}
+.support_page_contact_form{
+  display: flex;
+  flex-direction: column;
+}
+.support_page_contact_form input{
+   border:1px solid rgba(0, 0, 0, 0.295);
+   padding-left: 10px;
+   padding:5px;
+   border-radius: 5px;
+   
+}
+.support_page_contact_form input::placeholder{
+  padding-left: 10px;
+  font-size: 14px;
+}
+.support_page_contact_form input:focus{
+  outline: 1px solid green;
+}
+.dashboard_support_page{
+  height: 90vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:576px) {
+  .Megashopp{
+  color:red;
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  /* animation: appearDissapear 2s infinite; */
+
+}
+.email_inputt{
+  width: 100%;
+  padding: 6px;
+   padding-left: 30px;
+  outline: none;
+  border: 2px solid rgba(217, 219, 219, 0.9);;
+}
+
+.password_inputt{
+width: 100%;
+ padding: 6px;
+ outline: none;
+  padding-left: 30px;
+ border: 2px solid rgba(217, 219, 219, 0.9);;
+}
+.login_register_buttonn{
+  width: 40%;
+  margin-top: 1rem;
+  background: rgba(255, 0, 0, 0.65);
+  color: white;
+  border: none;
+  padding: 8px;
+}
+
+.left_side_contentt{
+ padding-left: 1rem !important;
+ margin: 0;
+ height: 500px;
+text-align: center;
+
+
+
+}
+
+.image_container_landing_page{
+  height: 70%;
+  width: 100%;
+}
+img.landing_page_imgg{
+  height: 100% !important;
+  width: 100% !important;
+  object-fit: contain;
+}
+
+.Megashopp{
+  margin-left: 0px !important;
+}
+.welcome{
+  margin-left: 0px !important;
+}  
+
+/* .footerr{
+position: absolute;
+top:90%;
+left:50%;
+width: 100%;
+transform: translate(-50%, 50%);
+text-align: center;
+ 
+} */
+
+}
+
+@media only screen and (max-width:768px) {
+
+  .submission_form{
+  margin-top:14px;
+  width:240px;
+  
+ 
+}
+
+  .copy_wallet{
+  position: absolute;
+  bottom:28%;
+  left: 60%;
+  font-size:14px;
+}
+
+/* styling the home page start */
+.scan_code_pin{
+  margin-top: 25px;
+  color: white;
+  font-weight: bold;
+  width: 80%;
+  font-size: 15px;
+  opacity: 0.7;
+}
+
+.dashboard{
+  display: none;
+}
+.contentArea{
+  background: #F5F5F5;
+  margin-left: 10px;
+}
+.logs{
+  margin-left: 10px;
+}
+.logo{
+  height: 100%;
+  font-family: 'EB Garamond', serif;
+  font-size: 28PX;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#22ae8e;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+  width: 350px !important;
+  
+
+}
+.image_container{
+ height: 35px;
+  width: 35px;
+   position: absolute;
+   left:-25%;
+   top:15%;
+   
+}
+.profile:hover{
+  background: none;
+}
+
+.menu_for_smaller_screens{
+width: 250px;
+height:120vh;
+z-index: 100;
+position: absolute;
+left: 0;
+top:0px;
+background:#102e4d;
+color:white;
+
+font-size: 14px;
+
+transition: all 0.5 ease;
+
+
+}
+.menu_smaller_screens_logs_page{
+  height: 530vh;
+}
+.menu_for_smaller_screens_home_page{
+  height: 240vh;
+}
+.menu_bars_smaller_screens{
+  position: relative;
+  width: 100px;
+  height: 50px;
+}
+.fabars_container{
+  position: absolute;
+  top:0%;
+  cursor: pointer;
+  padding: 3px;
+  width: 35px;
+  text-align: center;
+  margin-left: 5px;
+  border:2px solid rgba(0, 0, 0, 0.274);
+  z-index: 5000;
+
+
+}
+.fabars_container:hover{
+  opacity: 0.7;
+}
+.move_bars_container{
+ margin-left: 5px;
+ cursor: pointer;
+ margin-top: 0px;
+ transition: all 0.5s ease;
+ border:2px solid rgba(0, 0, 0, 0.274);
+ width: 35px;
+ padding: 3px;
+ margin-right: 15px !important;
+pointer-events: all;
+text-align: center;
+z-index: 10;
+
+ 
+}
+.move_bars_container:hover{
+  opacity: 0.7;
+}
+.PageBackToNormal{
+ width: 100%;
+background: #f5f5f5;
+ margin-right: 0;
+ transition: all 0.5s ease;
+ overflow-x: scroll !important;
+
+}
+
+
+.moveWholepageToRight{
+  margin-left: 250px;
+  width: 100%;
+  overflow-x: hidden;
+  transition: all 0.5s ease;
+}
+.return_bars_contaniner{
+   margin-left: 0px;
+}
+.fa-bars{
+  font-size: 25px;
+  opacity: 0.7;
+}
+.content_menu_smaller_screens ul{
+  list-style-type: none;
+
+}
+.content_menu_smaller_screens ul li.dashboardLi_smaller_screen{
+  margin-bottom: 10px;
+  margin-left: -35px;
+  opacity: 0.7;
+}
+.content_menu_smaller_screens ul li i{
+  margin-right: 10px;
+}
+.dropdownMenu_smaller_screen ul{ 
+  text-align: left;
+  margin-left: -20px;
+}
+.show_menu_smalller_screen{
+  margin-left: 0;
+  transition: all 0.5s ease;
+}
+.hide_menu_smalller_scren{
+  margin-left: -150px;
+  position: absolute;
+left: -50%;
+top:48px;
+transition: all 0.5s ease;
+}
+.dropdownMenu_smaller_screen ul li:hover{
+  background: #22ae8e;
+  /* background:red;
+  color:green; */
+}
+.dropdownMenu_smaller_screen ul li:nth-child(1){
+  margin-left: -25px;
+}
+.dropdownMenu_smaller_screen ul li:nth-child(1):hover,
+.dropdownMenu_smaller_screen ul li:nth-child(5):hover
+{
+  background: none;
+}
+.dropdownMenu_smaller_screen ul li:nth-child(5){
+  margin-left: -25px;
+}
+.header_buttons{ 
+  display: none;
+  
+
+
+}
+.EmailvaluePair{
+  width: 100%;
+  display: flex;
+  height: 100px;
+  align-items: center;
+  margin-top: -30px;
+ 
+}
+.email_address{
+  font-weight: bold;
+  font-size: 16px;
+  opacity: 0.7;
+}
+.emailValue{
+  margin-left: 100px;
+  width: 155px;
+  text-align: center;
+  background: #428bca;
+  border-radius:20px;
+  color: white;
+  font-size: 12px;
+ 
+}
+
+/* styling the home page end */
+}
+
+@media only screen and (max-width:520px){
+.adminContactInfor{
+  height: 120px;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5); 
+ background: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+  .eachbalance{
+  border: 1px solid rgba(0, 0, 0, 0.221);
+  margin-right: 0px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: white;
+  height: 150px;
+  
+}
+
+  .accountBalTotalPurchased{
+  margin-right: 5px;
+  margin-left: 0px;
+  margin-top: 25px;
+ 
+}
+  .navbar{
+  position: relative;
+  
+ 
+}
+.logo{
+border-left: none;
+  height: 100%;
+  font-family: 'EB Garamond', serif;
+  font-size: 25PX;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#22ae8e;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  z-index: 1;
+  margin-left:70px !important;
+ text-align: center;
+ width: 150px !important;
+
+ 
+ 
+ 
+ 
+}
+.iconsSymbolCOntainer{
+  height: 45vh;
+ background: #F5F5F5;
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+ 
+}
+.refund{
+  margin-top:35px;
+  width: 100%;
+  height:150px;
+  padding-left: 10px;
+  background: white;
+  margin-left: 0px;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3); 
+}
+.EmailvaluePair{
+  width: 100%;
+  display: flex;
+  height: 100px;
+  align-items: center;
+  margin-top: -30px;
+ 
+}
+.email_address{
+  font-weight: bold;
+  font-size: 16px;
+  opacity: 0.7;
+}
+.emailValue{
+  margin-left: 20px;
+  width: 155px;
+  text-align: center;
+  background: #428bca;
+  border-radius:20px;
+  color: white;
+  font-size: 12px;
+ 
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:768px) {
+ 
+.PageBackToNormalLogsPage{
+ width: 100%;
+background: #f5f5f5;
+ margin-right: 0;
+ overflow-x: hidden;
+ transition: all 0.5s ease;
+ 
+}
+  .PageBackToNormal{
+ width: 100%;
+background: #f5f5f5;
+ margin-right: 0;
+ transition: all 0.5s ease;
+ overflow-x: hidden !important;
+
+}
+ .menu_for_smaller_screens{
+    display: none;
+ } 
+ .menu_for_smaller_screens{
+   display: none;
+ }
+ .fabars_container{
+  display: none;
+  
+}
+.fa-bars{
+  display: none;
+}
+.content_menu_smaller_screens{
+  display: none;
+}
+.logo{
+
+  height: 100%;
+  /* border-right: 1px solid dotted; */
+  font-family: 'EB Garamond', serif;
+  font-size: 32PX;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#22ae8e;
+  margin-left: -150px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+ 
+ 
+ 
+}
+
+}

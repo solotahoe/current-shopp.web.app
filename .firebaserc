@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "current-shoop",
+    "best---markett": "best---markett",
+    "best--market": "best--market",
+    "best---market": "best----markett",
+    "current-shoop": "current-shoop"
+  },
+  "targets": {}
+}
