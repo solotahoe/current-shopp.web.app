@@ -614,8 +614,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1860.3 USD</td>
+                    <td>$1214.44</td>
+                    <td>$85</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -633,8 +633,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1200.5 USD</td>
+                    <td>$1350.65</td>
+                    <td>$99</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -652,8 +652,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1800.5 USD</td>
+                    <td>$1732.85</td>
+                    <td>$110</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -672,8 +672,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1300.8 USD</td>
+                    <td>$1983.53</td>
+                    <td>$175</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -708,8 +708,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1200.6 USD</td>
+                    <td>$2100.5</td>
+                    <td>$199</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -727,8 +727,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>8k</td>
-                    <td>$1202.3 USD</td>
+                    <td>$2555.02</td>
+                    <td>$230</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -746,8 +746,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>7k</td>
-                    <td>$1000.6 USD</td>
+                    <td>$3000.01</td>
+                    <td>$255</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -766,8 +766,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>6k</td>
-                    <td>$1210.6 USD</td>
+                    <td>$3124.56</td>
+                    <td>$299</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -803,8 +803,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$2600.2 USD</td>
+                  <td>$4953.37</td>
+                  <td>$430</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -822,8 +822,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$1103.6 USD</td>
+                  <td>$4584.37</td>
+                  <td>$430</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -841,8 +841,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$1220.6 USD</td>
+                  <td>$4584.5</td>
+                  <td>$410</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -861,8 +861,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$1102.3 USD</td>
+                  <td>$3500.45</td>
+                  <td>$340</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -881,8 +881,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1125.63 USD</td>
+                  <td>$3000.91</td>
+                  <td>$315</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -901,8 +901,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$1125.3 USD</td>
+                  <td>$2552.02</td>
+                  <td>$230</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -921,8 +921,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$1600.5 USD</td>
+                  <td>$2100.5</td>
+                  <td>$199</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -941,8 +941,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$1700.2 USD</td>
+                  <td>$1732.85</td>
+                  <td>$110</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -961,8 +961,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>4k</td>
-                  <td>$1002.6 USD</td>
+                  <td>$1732.85</td>
+                  <td>$110</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -981,8 +981,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>3k</td>
-                  <td>$1145.2 USD</td>
+                  <td>$1214.44</td>
+                  <td>$85</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

@@ -612,8 +612,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1000.76 USD</td>
+                    <td>$1154.64</td>
+                    <td>$99</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +631,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1154.64 USD</td>
+                    <td>$1520.6</td>
+                    <td>$130</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +650,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1520.6 USD</td>
+                    <td>$1600.51</td>
+                    <td>$150</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +670,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1900.53 USD</td>
+                    <td>$1900.53</td>
+                    <td>$180</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +706,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$2300.12 USD</td>
+                    <td>$2300.12</td>
+                    <td>$230</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +725,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$2500.44 USD</td>
+                    <td>$2500.44</td>
+                    <td>$254</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +744,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$3500.55 USD</td>
+                    <td>2900.56</td>
+                    <td>$270</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +764,8 @@ export default function Boa() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$4000.35 USD</td>
+                    <td>$3250.91</td>
+                    <td>$300</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +801,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$3250.91 USD</td>
+                  <td>$1000.76</td>
+                  <td>$99</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +820,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$3500.55 USD</td>
+                  <td>$1154.64</td>
+                  <td>$99</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +839,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$2500.44 USD</td>
+                  <td>$1520.6</td>
+                  <td>$130</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +859,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$1600.51 USD</td>
+                  <td>$1900.53</td>
+                  <td>$180</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +879,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1600.52 USD</td>
+                  <td>$2900.56</td>
+                  <td>$270</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +899,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1758.23 USD</td>
+                  <td>$3250.91</td>
+                  <td>$300</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +919,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$2145.65 USD</td>
+                  <td>$1900.53</td>
+                  <td>$180</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +939,8 @@ export default function Boa() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$3250.87 USD</td>
+                  <td>$2300.12</td>
+                  <td>$230</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

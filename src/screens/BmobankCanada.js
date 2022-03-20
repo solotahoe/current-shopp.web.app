@@ -612,8 +612,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1870.52 USD</td>
+                    <td>$1014.76</td>
+                    <td>$95</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +631,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1082.02 USD</td>
+                    <td>$1254.64</td>
+                    <td>$100</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +650,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1200.52 USD</td>
+                    <td>$1632.75</td>
+                    <td>$150</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +670,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1800.87 USD</td>
+                    <td>$1883.53</td>
+                    <td>$180</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +706,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1110.96 USD</td>
+                    <td>$2165.53</td>
+                    <td>$203</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +725,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1205.85 USD</td>
+                    <td>$2755.02</td>
+                    <td>$240</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +744,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1600.52 USD</td>
+                    <td>$2755.02</td>
+                    <td>$240</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +764,8 @@ export default function BmoBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1228.36 USD</td>
+                    <td>$3027.01</td>
+                    <td>$263</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +801,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$1650.32 USD</td>
+                  <td>$3674.91</td>
+                  <td>$310</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +820,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$1004.36 USD</td>
+                  <td>$3164.56</td>
+                  <td>$299</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +839,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$1220.32 USD</td>
+                  <td>$3027.01</td>
+                  <td>$263</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +859,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$2652.32 USD</td>
+                  <td>$1883.53</td>
+                  <td>$180</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +879,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$1210.32 USD</td>
+                  <td>$1632.72</td>
+                  <td>$150</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +899,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$2660.32 USD</td>
+                  <td>$2755.02</td>
+                  <td>$240</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +919,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1205.32 USD</td>
+                  <td>$3027.01</td>
+                  <td>$263</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +939,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$1258.35 USD</td>
+                  <td>$3900.43</td>
+                  <td>$350</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -959,8 +959,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$3160.5 USD</td>
+                  <td>$417.86</td>
+                  <td>$380</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -979,8 +979,8 @@ export default function BmoBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$1260.6 USD</td>
+                  <td>$4684.35</td>
+                  <td>$400</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

@@ -612,8 +612,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1114.52 USD</td>
+                    <td>$1114.52</td>
+                    <td>$99</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +631,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1532.45 USD</td>
+                    <td>$1154.65</td>
+                    <td>$105</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +650,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$2000.53 USD</td>
+                    <td>$1773.59</td>
+                    <td>$175</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +670,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$2800.31 USD</td>
+                    <td>$2000.53</td>
+                    <td>$195</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +706,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$2664.02 USD</td>
+                    <td>$2664.02</td>
+                    <td>$225</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +725,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$4653.33 USD</td>
+                    <td>$2800.31</td>
+                    <td>$243</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +744,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$4000.86 USD</td>
+                    <td>$3000.76</td>
+                    <td>$275</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +764,8 @@ export default function Citibank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$2664.02 USD</td>
+                    <td>$3800.45</td>
+                    <td>$320</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +801,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$2000.63 USD</td>
+                  <td>$4000.86</td>
+                  <td>$345</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +820,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$4444.53 USD</td>
+                  <td>$4444.53</td>
+                  <td>$355</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +839,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1886.32 USD</td>
+                  <td>$4653.33</td>
+                  <td>$375</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +859,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1320.85 USD</td>
+                  <td>$1154.52</td>
+                  <td>$105</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +879,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$3532.12 USD</td>
+                  <td>$1532.45</td>
+                  <td>$145</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +899,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1220.65 USD</td>
+                  <td>$2000.53</td>
+                  <td>$195</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +919,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$1165.89 USD</td>
+                  <td>$2664.02</td>
+                  <td>$225</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +939,8 @@ export default function Citibank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$3800.45 USD</td>
+                  <td>$2800.31</td>
+                  <td>$243</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

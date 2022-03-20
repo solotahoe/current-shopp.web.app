@@ -612,8 +612,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1100.11 USD</td>
+                    <td>1100.11</td>
+                    <td>$93</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +631,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1350.33 USD</td>
+                    <td>$1350.33</td>
+                    <td>$101</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +650,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1753.55 USD</td>
+                    <td>$1500.75</td>
+                    <td>$130</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +670,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$2000.77 USD</td>
+                    <td>$1753.55</td>
+                    <td>$160</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +706,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$2900.01 USD</td>
+                    <td>$2000.77</td>
+                    <td>$196</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +725,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$3050.56 USD</td>
+                    <td>$2500.22</td>
+                    <td>$223</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +744,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$3200.6 USD</td>
+                    <td>$2900.01</td>
+                    <td>$255</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +764,8 @@ export default function SuntrustBank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1350.33 USD</td>
+                    <td>$3050.56</td>
+                    <td>$276</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +801,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$1250.36 USD</td>
+                  <td>$3050.56</td>
+                  <td>$276</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +820,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$2900.01 USD</td>
+                  <td>$3200.6</td>
+                  <td>$290</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +839,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$1650.33 USD</td>
+                  <td>$3800.86</td>
+                  <td>$340</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +859,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$1100.23 USD</td>
+                  <td>$4000.35</td>
+                  <td>$370</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +879,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$3200.6 USD</td>
+                  <td>$4200.5</td>
+                  <td>$400</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +899,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$4200.5 USD</td>
+                  <td>$1350.33</td>
+                  <td>$101</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +919,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$1008.32 USD</td>
+                  <td>$1753.55</td>
+                  <td>$160</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +939,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$1145.32 USD</td>
+                  <td>$2000.77</td>
+                  <td>$196</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -959,8 +959,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>4k</td>
-                  <td>$1546.32 USD</td>
+                  <td>$2500.22</td>
+                  <td>$233</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -979,8 +979,8 @@ export default function SuntrustBank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$2568.96 USD</td>
+                  <td>$2900.01</td>
+                  <td>$255</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

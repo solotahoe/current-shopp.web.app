@@ -609,8 +609,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$2092.8 USD</td>
+                    <td>$1014.76</td>
+                    <td>$95</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +628,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$3503.5 USD</td>
+                    <td>$1254.64</td>
+                    <td>$100</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +647,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1483.9 USD</td>
+                    <td>$1632.75</td>
+                    <td>$150</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +667,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1220.6 USD</td>
+                    <td>$1883.53</td>
+                    <td>$180</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +703,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$5750.8 USD</td>
+                    <td>$2165.53</td>
+                    <td>$203</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +722,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1103.9 USD</td>
+                    <td>$2755.02</td>
+                    <td>$240</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +741,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1055.9 USD</td>
+                    <td>$3027.01</td>
+                    <td>$263</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +761,8 @@ export default function BarclaysBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$2650.5 USD</td>
+                    <td>$3164.56</td>
+                    <td>$299</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +798,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$1980.8 USD</td>
+                  <td>$3674.91</td>
+                  <td>$310</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +817,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$2750.8 USD</td>
+                  <td>#3674.91</td>
+                  <td>$310</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,8 +836,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$2990.5 USD</td>
+                  <td>$3900.43</td>
+                  <td>$310</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -856,8 +856,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$1507.8 USD</td>
+                  <td>$4117.86</td>
+                  <td>$380</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -876,8 +876,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$2700.6 USD</td>
+                  <td>$4853.45</td>
+                  <td>$430</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -896,8 +896,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$1202.8 USD</td>
+                  <td>$4684.35</td>
+                  <td>$400</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +916,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$1052.7 USD</td>
+                  <td>$3900.43</td>
+                  <td>$350</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,8 +936,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$2950.3 USD</td>
+                  <td>$3027.01</td>
+                  <td>$263</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -956,8 +956,8 @@ export default function BarclaysBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>4k</td>
-                  <td>$1005.5 USD</td>
+                  <td>$2755.02</td>
+                  <td>$240</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

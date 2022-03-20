@@ -609,8 +609,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$2500.25 USD</td>
+                    <td>$1100.75</td>
+                    <td>$99</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +628,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$3000.35 USD</td>
+                    <td>$1354.64</td>
+                    <td>$110</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +647,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1200.8 USD</td>
+                    <td>$1532.43</td>
+                    <td>$145</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +667,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1440.53 USD</td>
+                    <td>$1783.56</td>
+                    <td>$175</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +703,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1487.58 USD</td>
+                    <td>$2100.6</td>
+                    <td>$195</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +722,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1220.69 USD</td>
+                    <td>$2700.02</td>
+                    <td>$235</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +741,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1900.50 USD</td>
+                    <td>$3000.01</td>
+                    <td>$245</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +761,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1260.63 USD</td>
+                    <td>$3100.55</td>
+                    <td>$300</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +798,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$1050.52 USD</td>
+                  <td>$3500.45</td>
+                  <td>$340</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +817,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$1600.63 USD</td>
+                  <td>$4000.8</td>
+                  <td>$360</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,8 +836,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$1130 USD</td>
+                  <td>$4753.37</td>
+                  <td>$375</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -856,8 +856,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$2110.36 USD</td>
+                  <td>$1100.75</td>
+                  <td>$99</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -876,8 +876,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1260.36 USD</td>
+                  <td>$1354.64</td>
+                  <td>$110</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -896,8 +896,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$2690.98 USD</td>
+                  <td>$1532.43</td>
+                  <td>$145</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +916,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$4130.32 USD</td>
+                  <td>$2700.02</td>
+                  <td>$235</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,8 +936,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$2105.32 USD</td>
+                  <td>$3100.55</td>
+                  <td>$300</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

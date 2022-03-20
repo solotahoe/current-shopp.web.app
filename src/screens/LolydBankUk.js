@@ -609,8 +609,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1870.2 USD</td>
+                    <td>$999.7</td>
+                    <td>$102</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +628,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1400.5 USD</td>
+                    <td>$1150.55</td>
+                    <td>$110</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +647,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$3582.8 USD</td>
+                    <td>$1500.15</td>
+                    <td>$145</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +667,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1355.9 USD</td>
+                    <td>$1900.71</td>
+                    <td>$200</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +703,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1100.8 USD</td>
+                    <td>$2900.44</td>
+                    <td>$245</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +722,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$5703.2 USD</td>
+                    <td>1500.15</td>
+                    <td>$145</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +741,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$2120.9 USD</td>
+                    <td>$3023.56</td>
+                    <td>$260</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +761,8 @@ export default function LolydsBankUk() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$3980.3 USD</td>
+                    <td>$3400.95</td>
+                    <td>$300</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +798,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$1100.5 USD</td>
+                  <td>$4453.34</td>
+                  <td>$450</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +817,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$1700.3 USD</td>
+                  <td>$4300.44</td>
+                  <td>$420</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,8 +836,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$2900.30 USD</td>
+                  <td>$3500.55</td>
+                  <td>$320</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -856,8 +856,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$1462.36 USD</td>
+                  <td>$3023.56</td>
+                  <td>$260</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -876,8 +876,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1235.52 USD</td>
+                  <td>$2900.44</td>
+                  <td>$245</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -896,8 +896,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$1220.58 USD</td>
+                  <td>$2000.22</td>
+                  <td>$225</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +916,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$1320.25 USD</td>
+                  <td>$1900.71</td>
+                  <td>$200</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,8 +936,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$1015.3 USD</td>
+                  <td>$1783.55</td>
+                  <td>$174</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -956,8 +956,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>4k</td>
-                  <td>$2060.36 USD</td>
+                  <td>$999.7</td>
+                  <td>$102</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -976,8 +976,8 @@ export default function LolydsBankUk() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>3k</td>
-                  <td>$7001.36 USD</td>
+                  <td>$1500.15</td>
+                  <td>$145</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

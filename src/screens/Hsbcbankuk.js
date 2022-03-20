@@ -609,8 +609,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$3000.3 USD</td>
+                    <td>$1114.66</td>
+                    <td>$95</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +628,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$2500.32 USD</td>
+                    <td>$1354.64</td>
+                    <td>$100</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +647,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1502.3 USD</td>
+                    <td>$1430.75</td>
+                    <td>$140</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +667,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$2802.3 USD</td>
+                    <td>$1783.55</td>
+                    <td>$170</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +703,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>12k</td>
-                    <td>$1050.6 USD</td>
+                    <td>$3000.11</td>
+                    <td>$255</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +722,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>11k</td>
-                    <td>$1000.50 USD</td>
+                    <td>$4750.51</td>
+                    <td>$420</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +741,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>10k</td>
-                    <td>$1300.8 USD</td>
+                    <td>$4600.54</td>
+                    <td>$400</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +761,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>9k</td>
-                    <td>$1205.5 USD</td>
+                    <td>$4110.85</td>
+                    <td>$350</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +798,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>12k</td>
-                  <td>$1702.3 USD</td>
+                  <td>$1114.66</td>
+                  <td>$99</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +817,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>11k</td>
-                  <td>$2603.2 USD</td>
+                  <td>$1354.64</td>
+                  <td>$100</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,8 +836,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>10k</td>
-                  <td>$1280.3 USD</td>
+                  <td>$1430.75</td>
+                  <td>$140</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -856,8 +856,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>9k</td>
-                  <td>$2140.36 USD</td>
+                  <td>$1783.55</td>
+                  <td>$170</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -876,8 +876,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1200.25 USD</td>
+                  <td>$2160.53</td>
+                  <td>$200</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -896,8 +896,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>8k</td>
-                  <td>$1300.32 USD</td>
+                  <td>$2655.02</td>
+                  <td>$230</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +916,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>7k</td>
-                  <td>$1150.5 USD</td>
+                  <td>$3000.11</td>
+                  <td>$250</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,8 +936,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>6k</td>
-                  <td>$1152.3 USD</td>
+                  <td>$4750.51</td>
+                  <td>$420</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -956,8 +956,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>5k</td>
-                  <td>$1555.36 USD</td>
+                  <td>$4600.54</td>
+                  <td>$400</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
