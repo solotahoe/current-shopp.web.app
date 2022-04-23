@@ -579,7 +579,12 @@ export default function Downloads() {
               <li className="dashboardLi_smaller_screen">
                 {" "}
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                Support
+                <Link
+                  to="/support"
+                  style={{ color: "white", textDecoration: "none" }}
+                >
+                  Support
+                </Link>
               </li>
               <li className="dashboardLi_smaller_screen" onClick={handleLogOut}>
                 {" "}

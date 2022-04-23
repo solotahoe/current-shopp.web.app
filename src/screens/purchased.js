@@ -579,7 +579,12 @@ export default function Purchased() {
               <li className="dashboardLi_smaller_screen">
                 {" "}
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                Support
+                <Link
+                  to="/support"
+                  style={{ color: "white", textDecoration: "none" }}
+                >
+                  Support
+                </Link>
               </li>
               <li className="dashboardLi_smaller_screen" onClick={handleLogOut}>
                 {" "}
@@ -605,7 +610,7 @@ export default function Purchased() {
             </div>
             <div className="col-md-6 col-lg-6 col-sm-6">
               <p className="footer_text_purchased_page">
-                &copy; 2021 Best-Marketts shop
+                &copy; 2022 Current shop
               </p>
               <div className="socialmedia_purchased_page">
                 <div className="social_media_icons_purchased_page twitterDiv">

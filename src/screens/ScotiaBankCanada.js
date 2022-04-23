@@ -576,7 +576,12 @@ export default function ScotiaBankCanada() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -612,8 +617,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1104.55</td>
-                    <td>$99</td>
+                    <td>99k</td>
+                    <td>$158</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +636,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1154.65</td>
-                    <td>$107</td>
+                    <td>238k</td>
+                    <td>$187</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +655,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1773.13</td>
-                    <td>$175</td>
+                    <td>340k</td>
+                    <td>$240</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +675,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2100.51</td>
-                    <td>$195</td>
+                    <td>73k</td>
+                    <td>$129</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +711,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2600.02</td>
-                    <td>$215</td>
+                    <td>89k</td>
+                    <td>$105</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +730,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3057.11</td>
-                    <td>$245</td>
+                    <td>217k</td>
+                    <td>$187</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +749,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3100.56</td>
-                    <td>$275</td>
+                    <td>82k</td>
+                    <td>$105</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +769,8 @@ export default function ScotiaBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3700.41</td>
-                    <td>$315</td>
+                    <td>17k</td>
+                    <td>$60</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +806,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4217.86</td>
-                  <td>$325</td>
+                  <td>65k</td>
+                  <td>$100</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +825,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4803.45</td>
-                  <td>$400</td>
+                  <td>33k</td>
+                  <td>$65</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +844,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4803.45</td>
-                  <td>$400</td>
+                  <td>90k</td>
+                  <td>$120</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +864,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1104.55</td>
-                  <td>$99</td>
+                  <td>28k</td>
+                  <td>$60</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +884,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1432.54</td>
-                  <td>$154</td>
+                  <td>176k</td>
+                  <td>$100</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +904,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$2100.51</td>
-                  <td>$195</td>
+                  <td>42k</td>
+                  <td>$68</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +924,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3057.11</td>
-                  <td>$245</td>
+                  <td>77k</td>
+                  <td>$138</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +944,8 @@ export default function ScotiaBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3570.9</td>
-                  <td>$295</td>
+                  <td>92k</td>
+                  <td>$120</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

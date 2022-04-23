@@ -11,6 +11,7 @@ export default function Addfunds() {
   const [opacity, setOpacity] = useState(false);
   const [move, setMove] = useState(false);
   const [showCopied, setShowCopied] = useState(false);
+  const [Opacity2, setOpacity2] = useState(0);
 
   return (
     <div
@@ -582,7 +583,12 @@ export default function Addfunds() {
               <li className="dashboardLi_smaller_screen">
                 {" "}
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                Support
+                <Link
+                  to="/support"
+                  style={{ color: "white", textDecoration: "none" }}
+                >
+                  Support
+                </Link>
               </li>
               <li className="dashboardLi_smaller_screen" onClick={handleLogOut}>
                 {" "}
@@ -638,7 +644,20 @@ export default function Addfunds() {
             </div>
 
             <div className="col-md-2 col-lg-2 reportingFundingError">
-              <p className="report_error">Report Funding Error</p>
+              {/* no bitcoin detected start */}
+              <div className="confirmationPopUp" style={{ opacity: Opacity2 }}>
+                <span>
+                  {" "}
+                  <i
+                    className="fa fa-exclamation-triangle"
+                    aria-hidden="true"
+                  ></i>
+                </span>
+                No Payment Detected
+                <div className="border-animation"></div>
+              </div>
+              {/* no bitcoin detected end */}
+              <p className="report_error">Proceed to checkout</p>
               <div className="submission_form">
                 <form>
                   <label className="label_form_input">Subject</label>
@@ -669,7 +688,12 @@ export default function Addfunds() {
                     placeholder="Email Address"
                   />
 
-                  <button className="btn btn-primary submitbtnfundspage">
+                  <button
+                    onClick={() => {
+                      setOpacity2(!Opacity2);
+                    }}
+                    className="btn btn-primary submitbtnfundspage"
+                  >
                     Submit
                   </button>
                 </form>

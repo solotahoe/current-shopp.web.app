@@ -576,7 +576,12 @@ export default function RbcBankCanada() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -612,8 +617,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1000.5</td>
-                    <td>$102</td>
+                    <td>254k</td>
+                    <td>$198</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +636,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1300.65</td>
-                    <td>$110</td>
+                    <td>653k</td>
+                    <td>$345</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +655,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1400.55</td>
-                    <td>$130</td>
+                    <td>87k</td>
+                    <td>$120</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +675,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2090.33</td>
-                    <td>$180</td>
+                    <td>134k</td>
+                    <td>$140</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +711,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3000.01</td>
-                    <td>$255</td>
+                    <td>176k</td>
+                    <td>$150</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +730,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3164.55</td>
-                    <td>$279</td>
+                    <td>18k</td>
+                    <td>$65</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +749,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3400.9</td>
-                    <td>$300</td>
+                    <td>32k</td>
+                    <td>$70</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +769,8 @@ export default function RbcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$4070.82</td>
-                    <td>$330</td>
+                    <td>55k</td>
+                    <td>$100</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +806,8 @@ export default function RbcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4753.9</td>
-                  <td>$420</td>
+                  <td>91k</td>
+                  <td>$134</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +825,8 @@ export default function RbcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4500.35</td>
-                  <td>$400</td>
+                  <td>44k</td>
+                  <td>$80</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,107 +844,7 @@ export default function RbcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4070.82</td>
-                  <td>$330</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$3460.9</td>
-                  <td>$300</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$3164.55</td>
-                  <td>$279</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$3000.01</td>
-                  <td>$255</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$1400.55</td>
-                  <td>$130</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>%1300.65</td>
+                  <td>76k</td>
                   <td>$110</td>
                   <td>
                     {" "}
@@ -959,7 +864,47 @@ export default function RbcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1300.65</td>
+                  <td>213k</td>
+                  <td>$189</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>23k</td>
+                  <td>$60</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>76k</td>
                   <td>$110</td>
                   <td>
                     {" "}
@@ -979,8 +924,68 @@ export default function RbcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1000.5</td>
-                  <td>$102</td>
+                  <td>66k</td>
+                  <td>$105</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>16k</td>
+                  <td>$55</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>164k</td>
+                  <td>$140</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>60k</td>
+                  <td>$105</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

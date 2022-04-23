@@ -576,7 +576,12 @@ export default function StandardChartedBankUK() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -614,8 +619,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1214.44</td>
-                    <td>$85</td>
+                    <td>170k</td>
+                    <td>$186</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -633,8 +638,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1350.65</td>
-                    <td>$99</td>
+                    <td>53k</td>
+                    <td>$120</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -652,8 +657,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1732.85</td>
-                    <td>$110</td>
+                    <td>218k</td>
+                    <td>$180</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -672,8 +677,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1983.53</td>
-                    <td>$175</td>
+                    <td>$99</td>
+                    <td>$130</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -708,8 +713,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2100.5</td>
-                    <td>$199</td>
+                    <td>65k</td>
+                    <td>$120</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -727,8 +732,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2555.02</td>
-                    <td>$230</td>
+                    <td>97k</td>
+                    <td>$120</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -746,8 +751,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3000.01</td>
-                    <td>$255</td>
+                    <td>47k</td>
+                    <td>$100</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -766,8 +771,8 @@ export default function StandardChartedBankUK() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3124.56</td>
-                    <td>$299</td>
+                    <td>58k</td>
+                    <td>$110</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -803,8 +808,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4953.37</td>
-                  <td>$430</td>
+                  <td>21k</td>
+                  <td>$60</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -822,8 +827,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4584.37</td>
-                  <td>$430</td>
+                  <td>68k</td>
+                  <td>$110</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -841,8 +846,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4584.5</td>
-                  <td>$410</td>
+                  <td>91k</td>
+                  <td>$120</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -861,87 +866,7 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3500.45</td>
-                  <td>$340</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$3000.91</td>
-                  <td>$315</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$2552.02</td>
-                  <td>$230</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$2100.5</td>
-                  <td>$199</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$1732.85</td>
+                  <td>69k</td>
                   <td>$110</td>
                   <td>
                     {" "}
@@ -961,8 +886,8 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1732.85</td>
-                  <td>$110</td>
+                  <td>74k</td>
+                  <td>$115</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -981,8 +906,88 @@ export default function StandardChartedBankUK() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1214.44</td>
-                  <td>$85</td>
+                  <td>84k</td>
+                  <td>$115</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>19k</td>
+                  <td>$60</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>34k</td>
+                  <td>$70</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>58k</td>
+                  <td>$100</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>138k</td>
+                  <td>$145</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

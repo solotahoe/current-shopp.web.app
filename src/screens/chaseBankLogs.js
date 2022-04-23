@@ -576,7 +576,12 @@ export default function ChaseBankLogs() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -612,8 +617,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1254.64</td>
-                    <td>$100</td>
+                    <td>$108K</td>
+                    <td>$160</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +636,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1632.75</td>
-                    <td>$150</td>
+                    <td>$139K</td>
+                    <td>$180 </td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +655,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1883.53</td>
-                    <td>$180</td>
+                    <td>$349K</td>
+                    <td>$200</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +675,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2165.53</td>
-                    <td>$203</td>
+                    <td>$99K</td>
+                    <td>$150</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +711,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2755.02</td>
-                    <td>$240</td>
+                    <td>78K</td>
+                    <td>$120</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +730,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3227.01</td>
-                    <td>$263</td>
+                    <td>45K</td>
+                    <td>$90</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +749,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>3164.56</td>
-                    <td>$299</td>
+                    <td>67K</td>
+                    <td>$100</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +769,8 @@ export default function ChaseBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3164.56</td>
-                    <td>$299</td>
+                    <td>55K</td>
+                    <td>$98</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +806,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3674.91</td>
-                  <td>$310</td>
+                  <td>$35K</td>
+                  <td>$89</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +825,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3900.43</td>
-                  <td>$350</td>
+                  <td>$78K</td>
+                  <td>$110</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +844,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4117.86</td>
-                  <td>$380</td>
+                  <td>$23K</td>
+                  <td>$70</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +864,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4684.35</td>
-                  <td>$400</td>
+                  <td>$166K</td>
+                  <td>$120</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +884,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3164.56</td>
-                  <td>$299</td>
+                  <td>$189K</td>
+                  <td>$150</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +904,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3900.43</td>
-                  <td>$350</td>
+                  <td>$63K</td>
+                  <td>$99</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +924,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4117.86</td>
-                  <td>$380</td>
+                  <td>$15K</td>
+                  <td>$150</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +944,8 @@ export default function ChaseBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4853.57</td>
-                  <td>$430</td>
+                  <td>$68K</td>
+                  <td>$91</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

@@ -576,7 +576,12 @@ export default function Tdbank() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -612,8 +617,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1054.5</td>
-                    <td>$100</td>
+                    <td>108k</td>
+                    <td>$136</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +636,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1150.51</td>
-                    <td>$105</td>
+                    <td>324k</td>
+                    <td>$300</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +655,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1500.71</td>
-                    <td>$140</td>
+                    <td>179k</td>
+                    <td>$204</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +675,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1655.53</td>
-                    <td>$154</td>
+                    <td>76k</td>
+                    <td>$110</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +711,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2050.4</td>
-                    <td>$195</td>
+                    <td>66k</td>
+                    <td>$97</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +730,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2500.12</td>
-                    <td>$220</td>
+                    <td>195k</td>
+                    <td>$97</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +749,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2950.5</td>
-                    <td>$255</td>
+                    <td>195k</td>
+                    <td>$159</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +769,8 @@ export default function Tdbank() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3100.56</td>
-                    <td>$280</td>
+                    <td>54k</td>
+                    <td>$90</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +806,8 @@ export default function Tdbank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3500.9</td>
-                  <td>$300</td>
+                  <td>12k</td>
+                  <td>$60</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +825,8 @@ export default function Tdbank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3100.56</td>
-                  <td>$280</td>
+                  <td>64k</td>
+                  <td>$100</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +844,8 @@ export default function Tdbank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4000.86</td>
-                  <td>$350</td>
+                  <td>12k</td>
+                  <td>$60</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,148 +864,7 @@ export default function Tdbank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4000.86</td>
-                  <td>$350</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$4300.35</td>
-                  <td>$380</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$4500.95</td>
-                  <td>$400</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$2500.12</td>
-                  <td>$220</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$3500.9</td>
-                  <td>$300</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$4000.86</td>
-                  <td>$350</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$4300.35</td>
-                  <td>$380</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$1054.5</td>
+                  <td>64k</td>
                   <td>$100</td>
                   <td>
                     {" "}
@@ -1020,8 +884,149 @@ export default function Tdbank() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1150.51</td>
+                  <td>12k</td>
+                  <td>$60</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>53k</td>
+                  <td>$95</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>25k</td>
+                  <td>$60</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>87k</td>
+                  <td>$110</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>198k</td>
+                  <td>$165</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>91k</td>
+                  <td>$125</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>76k</td>
                   <td>$105</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>32k</td>
+                  <td>$70</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

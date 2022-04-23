@@ -576,7 +576,12 @@ export default function TdbankCanada() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -609,8 +614,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1104.55</td>
-                    <td>$99</td>
+                    <td>417k</td>
+                    <td>$300</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +633,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1154.65</td>
-                    <td>$107</td>
+                    <td>219k</td>
+                    <td>$180</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +652,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1773.13</td>
-                    <td>$175</td>
+                    <td>134k</td>
+                    <td>$159</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +672,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2100.51</td>
-                    <td>$195</td>
+                    <td>72k</td>
+                    <td>$102</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +708,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2600.02</td>
-                    <td>$215</td>
+                    <td>88k</td>
+                    <td>$109</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +727,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$357.11</td>
-                    <td>$245</td>
+                    <td>54k</td>
+                    <td>$100</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +746,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$4584.35</td>
-                    <td>$385</td>
+                    <td>50k</td>
+                    <td>$70</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +766,8 @@ export default function TdbankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2600.02</td>
-                    <td>$215</td>
+                    <td>32k</td>
+                    <td>$70</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +803,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1104.55</td>
-                  <td>$599</td>
+                  <td>65k</td>
+                  <td>$110</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +822,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1432.54</td>
-                  <td>$154</td>
+                  <td>86k</td>
+                  <td>$110</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,8 +841,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1773.13</td>
-                  <td>$175</td>
+                  <td>16k</td>
+                  <td>$60</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -856,8 +861,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3100.56</td>
-                  <td>$245</td>
+                  <td>29k</td>
+                  <td>$65</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -876,8 +881,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3100.56</td>
-                  <td>$275</td>
+                  <td>44k</td>
+                  <td>$90</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -896,8 +901,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4584.35</td>
-                  <td>$385</td>
+                  <td>54k</td>
+                  <td>$100</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +921,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3057.11</td>
-                  <td>$245</td>
+                  <td>127k</td>
+                  <td>140</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,29 +941,8 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4217.86</td>
-                  <td>$325</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$2600.02</td>
-                  <td>$215</td>
+                  <td>11k</td>
+                  <td>$60</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -978,8 +962,29 @@ export default function TdbankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3570.9</td>
-                  <td>$295</td>
+                  <td>71k</td>
+                  <td>$125</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>38k</td>
+                  <td>$65</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

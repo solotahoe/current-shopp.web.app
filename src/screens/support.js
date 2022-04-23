@@ -10,6 +10,7 @@ export default function Support() {
   const [opacity, setOpacity] = useState(false);
 
   const [move, setMove] = useState(false);
+  const [Opacity2, setOpacity2] = useState(0);
 
   return (
     <div
@@ -579,7 +580,12 @@ export default function Support() {
               <li className="dashboardLi_smaller_screen">
                 {" "}
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                Support
+                <Link
+                  to="/support"
+                  style={{ color: "white", textDecoration: "none" }}
+                >
+                  Support
+                </Link>
               </li>
               <li className="dashboardLi_smaller_screen" onClick={handleLogOut}>
                 {" "}
@@ -598,6 +604,19 @@ export default function Support() {
             </p>
           </div>
           <div className="contact_form_support_page">
+            {/* no payment detected start */}
+            <div className="confirmationPopUp2" style={{ opacity: Opacity2 }}>
+              <span>
+                {" "}
+                <i
+                  className="fa fa-exclamation-triangle"
+                  aria-hidden="true"
+                ></i>
+              </span>
+              No Payment Detected
+              <div className="border-animation"></div>
+            </div>
+            {/* no payment detected end */}
             <form>
               <div className="support_page_contact_form">
                 <label>Subject : </label>
@@ -627,7 +646,12 @@ export default function Support() {
                 </textarea>
               </div>
 
-              <button className="btn btn-success send_support_page">
+              <button
+                className="btn btn-success send_support_page"
+                onClick={() => {
+                  setOpacity2(!Opacity2);
+                }}
+              >
                 Send
               </button>
             </form>

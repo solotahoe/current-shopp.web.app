@@ -576,7 +576,12 @@ export default function HsbcBankLogs() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -612,8 +617,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1114.66</td>
-                    <td>$95</td>
+                    <td>328k</td>
+                    <td>$250</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -631,8 +636,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1654.64</td>
-                    <td>$100</td>
+                    <td>132k</td>
+                    <td>$154</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -650,8 +655,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1430.75</td>
-                    <td>$140</td>
+                    <td>179k</td>
+                    <td>$204</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -670,8 +675,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1783.55</td>
-                    <td>$170</td>
+                    <td>166k</td>
+                    <td>$154</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -706,8 +711,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2655.02</td>
-                    <td>$230</td>
+                    <td>152k</td>
+                    <td>$134</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -725,8 +730,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3000.11</td>
-                    <td>$250</td>
+                    <td>77k</td>
+                    <td>$103</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -744,8 +749,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3100.55</td>
-                    <td>$299</td>
+                    <td>22k</td>
+                    <td>$70</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -764,8 +769,8 @@ export default function HsbcBankLogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3574.8</td>
-                    <td>$310</td>
+                    <td>44k</td>
+                    <td>$89</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -801,8 +806,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3800.45</td>
-                  <td>$330</td>
+                  <td>49k</td>
+                  <td>$94</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -820,8 +825,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4600.54</td>
-                  <td>$400</td>
+                  <td>25k</td>
+                  <td>$70</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -839,8 +844,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1114.66</td>
-                  <td>$95</td>
+                  <td>176k</td>
+                  <td>$130</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -859,8 +864,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$2160.53</td>
-                  <td>$200</td>
+                  <td>77k</td>
+                  <td>$110</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -879,8 +884,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3000.11</td>
-                  <td>$250</td>
+                  <td>122k</td>
+                  <td>$115</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -899,8 +904,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4600.54</td>
-                  <td>$400</td>
+                  <td>65k</td>
+                  <td>$100</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -919,8 +924,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4750.51</td>
-                  <td>$420</td>
+                  <td>205k</td>
+                  <td>$165</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -939,8 +944,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$2655.02</td>
-                  <td>$230</td>
+                  <td>39k</td>
+                  <td>$89</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -960,8 +965,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3000.11</td>
-                  <td>$250</td>
+                  <td>71k</td>
+                  <td>$105</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -980,8 +985,8 @@ export default function HsbcBankLogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3800.45</td>
-                  <td>$330</td>
+                  <td>93k</td>
+                  <td>$120</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

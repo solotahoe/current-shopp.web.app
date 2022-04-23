@@ -576,7 +576,12 @@ export default function HsbcBankUklogs() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -609,8 +614,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1114.66</td>
-                    <td>$95</td>
+                    <td>349k</td>
+                    <td>$300</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +633,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1354.64</td>
-                    <td>$100</td>
+                    <td>209k</td>
+                    <td>$250</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +652,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1430.75</td>
-                    <td>$140</td>
+                    <td>183k</td>
+                    <td>$150</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +672,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1783.55</td>
-                    <td>$170</td>
+                    <td>320k</td>
+                    <td>$280</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +708,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3000.11</td>
-                    <td>$255</td>
+                    <td>69k</td>
+                    <td>$105</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +727,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$4750.51</td>
-                    <td>$420</td>
+                    <td>49k</td>
+                    <td>$100</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +746,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$4600.54</td>
-                    <td>$400</td>
+                    <td>98k</td>
+                    <td>$130</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +766,8 @@ export default function HsbcBankUklogs() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$4110.85</td>
-                    <td>$350</td>
+                    <td>58k</td>
+                    <td>$105</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +803,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1114.66</td>
-                  <td>$99</td>
+                  <td>32k</td>
+                  <td>$70</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +822,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1354.64</td>
-                  <td>$100</td>
+                  <td>18k</td>
+                  <td>$60</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,7 +841,27 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1430.75</td>
+                  <td>178k</td>
+                  <td>$180</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>135k</td>
                   <td>$140</td>
                   <td>
                     {" "}
@@ -856,8 +881,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1783.55</td>
-                  <td>$170</td>
+                  <td>87k</td>
+                  <td>$120</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -876,8 +901,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$2160.53</td>
-                  <td>$200</td>
+                  <td>95k</td>
+                  <td>$130</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -896,8 +921,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$2655.02</td>
-                  <td>$230</td>
+                  <td>71k</td>
+                  <td>$115</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +941,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3000.11</td>
-                  <td>$250</td>
+                  <td>87k</td>
+                  <td>$115</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,28 +961,8 @@ export default function HsbcBankUklogs() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4750.51</td>
-                  <td>$420</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$4600.54</td>
-                  <td>$400</td>
+                  <td>160k</td>
+                  <td>$155</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">

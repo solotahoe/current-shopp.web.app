@@ -129,7 +129,7 @@ export default function Login(props) {
       >
         <p className="footerr" style={{ zIndex: "10000" }}>
           {" "}
-          &copy; 2021 All rights Reserved |{" "}
+          &copy; 2022 All rights Reserved |{" "}
           <span className="footerName">Current-Shop </span>{" "}
         </p>
       </div>

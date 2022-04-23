@@ -576,7 +576,12 @@ export default function CibcBankCanada() {
                 <li className="dashboardLi_smaller_screen">
                   {" "}
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  Support
+                  <Link
+                    to="/support"
+                    style={{ color: "white", textDecoration: "none" }}
+                  >
+                    Support
+                  </Link>
                 </li>
                 <li
                   className="dashboardLi_smaller_screen"
@@ -609,8 +614,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1100.75</td>
-                    <td>$99</td>
+                    <td>328k</td>
+                    <td>$250</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -628,8 +633,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1354.64</td>
-                    <td>$110</td>
+                    <td>424k</td>
+                    <td>$300</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -647,8 +652,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1532.43</td>
-                    <td>$145</td>
+                    <td>66k</td>
+                    <td>$120</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -667,8 +672,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$1783.56</td>
-                    <td>$175</td>
+                    <td>137k</td>
+                    <td>$140</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -703,8 +708,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2100.6</td>
-                    <td>$195</td>
+                    <td>15k</td>
+                    <td>$87</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -722,8 +727,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$2700.02</td>
-                    <td>$235</td>
+                    <td>$87k</td>
+                    <td>$120</td>
                     <td>
                       <button className="btn btn-primary tablebtn">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -741,8 +746,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3000.01</td>
-                    <td>$245</td>
+                    <td>$43k</td>
+                    <td>$90</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -761,8 +766,8 @@ export default function CibcBankCanada() {
                       Online access, Email Access, Questions and answers, card
                       information,
                     </td>
-                    <td>$3100.55</td>
-                    <td>$300</td>
+                    <td>39k</td>
+                    <td>$60</td>
                     <td>
                       {" "}
                       <button className="btn btn-primary tablebtn">
@@ -798,8 +803,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3500.45</td>
-                  <td>$340</td>
+                  <td>79k</td>
+                  <td>$105</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -817,8 +822,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4000.8</td>
-                  <td>$360</td>
+                  <td>27k</td>
+                  <td>$60</td>
                   <td>
                     <button className="btn btn-primary tablebtn">
                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -836,8 +841,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$4753.37</td>
-                  <td>$375</td>
+                  <td>99k</td>
+                  <td>$130</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -856,27 +861,7 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1100.75</td>
-                  <td>$99</td>
-                  <td>
-                    {" "}
-                    <button className="btn btn-primary tablebtn">
-                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <Link
-                        to="/addfunds"
-                        style={{ color: "white", textDecoration: "none" }}
-                      >
-                        Purchase
-                      </Link>
-                    </button>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    Online access, Email Access, Questions and answers, card
-                    information,
-                  </td>
-                  <td>$1354.64</td>
+                  <td>65k</td>
                   <td>$110</td>
                   <td>
                     {" "}
@@ -896,8 +881,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$1532.43</td>
-                  <td>$145</td>
+                  <td>17k</td>
+                  <td>$60</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -916,8 +901,8 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$2700.02</td>
-                  <td>$235</td>
+                  <td>48k</td>
+                  <td>$90</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
@@ -936,8 +921,28 @@ export default function CibcBankCanada() {
                     Online access, Email Access, Questions and answers, card
                     information,
                   </td>
-                  <td>$3100.55</td>
-                  <td>$300</td>
+                  <td>92k</td>
+                  <td>$130</td>
+                  <td>
+                    {" "}
+                    <button className="btn btn-primary tablebtn">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                      <Link
+                        to="/addfunds"
+                        style={{ color: "white", textDecoration: "none" }}
+                      >
+                        Purchase
+                      </Link>
+                    </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Online access, Email Access, Questions and answers, card
+                    information,
+                  </td>
+                  <td>58k</td>
+                  <td>$105</td>
                   <td>
                     {" "}
                     <button className="btn btn-primary tablebtn">
